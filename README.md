@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**meric5/meric5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Meriç 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Student interested in Computer Engineering
+* 💻 Learning programming, software development, and cybersecurity
+* 🤖 Exploring Artificial Intelligence and Machine Learning
+* 🎮 Interested in Game Development with Unity
+* 🌍 Planning to study abroad in the future
+* 📚 Currently improving my English and preparing for international exams
+
+## 🛠️ Technologies & Tools
+
+* C#
+* Unity
+* Git & GitHub
+* Visual Studio
+* HTML & CSS (Learning)
+* Python (Learning)
+
+## 🌱 Currently Learning
+
+* Cybersecurity Fundamentals
+* Artificial Intelligence
+* Game Development
+* Software Engineering Principles
+
+## 🎯 Future Goals
+
+* Study Computer Engineering
+* Build innovative software projects
+* Work in AI, Cybersecurity, or Game Development
+* Contribute to open-source projects
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meric5\&show_icons=true)
+
+## 📫 Contact
+
+* GitHub: https://github.com/meric5
+
+⭐ Feel free to check out my repositories and follow my journey!
